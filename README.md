@@ -125,14 +125,3 @@ Build command:npm run build
 
 Publish directory:dist
 
-📸 Screenshots
-📌 Product Page
-(Add product, view inventory)
-
-
-📌 Place Order
-(Create order & total calculation)
-
-📌 Orders List
-(View past orders)
-
